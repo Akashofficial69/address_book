@@ -12,7 +12,7 @@ This is a simple Address Book API built with FastAPI.
 1. Clone the repository:
 
     ```sh
-    git clone <repository_url>
+    gh repo clone Akashofficial69/address_book
     cd address_book
     ```
 
